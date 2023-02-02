@@ -10,7 +10,7 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Phillip Okeyo</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Phillip Okeyo</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
 <h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
