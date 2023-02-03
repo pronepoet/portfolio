@@ -47,16 +47,54 @@
 
 ### Get to know me
 
+<h2>About me 😎</h2>
+<p>- 🔭 I’m currently in Flatiron School, a software engineering bootcamp.</p>
+<p>- 🌱 I’m currently learning Software Engineering and in particular, Javascript and Ruby.</p>
+<p>- 👯 I’m looking to collaborate on open-source projects. Mainly web-based.</p>
+<p>- 🤔 I’m looking for help with Cybersecurity and implementing a vpn.</p>
+<p>- 💬 Ask me about Linux, I am fascinated by it.</p>
+<p>- 📫 How to reach me: ochiengphillip84@gmail.com</p>
+<p>- ⚡ Fun fact: Bleach is the best anime. Change my mind.</p>
 
-💬 I’m currently in Flatiron School, a software engineering bootcamp.
+<h2> 💼 Skills and Tools</h2>
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Javascript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
+<a href="https://www.w3/org.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"></a>
+<a href="https://www.npmjs.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/npm"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/console.png"></a>
+<a href="https://figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"></a>
 
-📝 I’m currently learning Software Engineering and in particular, Javascript and Ruby.
+</p>
 
-📄 I’m looking to collaborate on open-source projects. Mainly web-based.
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pronepoet&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
-⚡ Fun fact? I love computer games and can play all day long!
+ ## 💻Top languages
+<!-- top languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronepoet&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
-### My work
+
+<h2>📌 Special Repositories</h2>
+
+<!-- hapa ni place ya readme cards -->
+<a href="https://github.com/pronepoet/Environs.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Environs&theme=moltack" />
+</a>
+<a href="https://github.com/pronepoet/Akan_names.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Akan_names&theme=moltack" />
+</a>
+<a href="https://github.com/pronepoet/Pizza-palace.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
+</a>
+<a href="https://github.com/pronepoet/photo-gallery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
+</a>
+
+
 
