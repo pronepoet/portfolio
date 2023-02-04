@@ -110,17 +110,24 @@
 <h3>Contact keeper</h3>
 <h4  style="text-align: right">2022</h4>
 <p>The majority of cell phone users worldwide experience the issue of losing their contact lists due to either phone loss or phone damage, which is why Keeper is being created. Keeper is a free personal information manager that allows you to save all of your friends', families', and colleges' contact information in a single database file. With the built-in ability to login, update and delete, you'll never forget or loose your friends or professional contact number! since you can now access them from any device with an internet connection.</p>
-<a href="https://github.com/DenisOuma/IP-project-keeper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DenisOuma&repo=IP-project-keeper&theme=moltack" />
-</a>
+### My contributions
+
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+| 09/12/22 	| 🏇 Added the authentication feature| Completed |
+
 
 
 <h3>Hemingways</h3>
 <h4  style="text-align: right">2022</h4>
 <p>The website is a prototype for Hemingways Hotel, an e-commerce platform supporting timely, reliable, booking, updates, luxurious offers and services for all our esteemed clienteles.</p>
-<a href="https://github.com/rickymurithi/hemingways-f">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rickymurithi&repo=hemingways-f&theme=moltack" />
-</a>
+### My contributions
+
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+| 08/11/22 	| ✨ Added the booking component| Completed | [ca744668](https://github.com/rickymurithi/hemingways-f/commit/ca7446887efe4fd8dc9a876d4ad199b1814494f1) |
+| 09/11/22 	| ✨ Added the offers component| Completed | [47e7cf](https://github.com/rickymurithi/hemingwaysf/commit/47e7fcfb00965ad869768b65d89f806ac2c59531) |
+
 
 <h3>Photo Gallery</h3>
 <h4  style="text-align: right">2022</h4>
