@@ -54,7 +54,7 @@
 <p>- 🤔 I’m looking for help with Cybersecurity and implementing a vpn.</p>
 <p>- 💬 Ask me about Linux, I am fascinated by it.</p>
 <p>- 📫 How to reach me: ochiengphillip84@gmail.com</p>
-<p>- ⚡ Fun fact: Bleach is the best anime. Change my mind.</p>
+<p>- ⚡ I love MOBA games.</p>
 
 <h2> 💼 Skills and Tools</h2>
 <p>
@@ -69,6 +69,11 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/console.png"></a>
 <a href="https://figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"></a>
+<a href="https://www.ruby-lang.org/" target="_blank"><img src="https://img.icons8.com/color/1x/ruby-programming-language.png"></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/officel/1x/react.png"></a>
+<a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/1x/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"></a>
+ <a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/1x/angularjs.png"></a>
+ 
 
 </p>
 
