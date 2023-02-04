@@ -110,7 +110,7 @@
 <h3>Contact keeper</h3>
 <h4  style="text-align: right">2022</h4>
 <p>The majority of cell phone users worldwide experience the issue of losing their contact lists due to either phone loss or phone damage, which is why Keeper is being created. Keeper is a free personal information manager that allows you to save all of your friends', families', and colleges' contact information in a single database file. With the built-in ability to login, update and delete, you'll never forget or loose your friends or professional contact number! since you can now access them from any device with an internet connection.</p>
-## My contributions
+<h3> My contributions </h3>
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
@@ -121,7 +121,7 @@
 <h3>Hemingways</h3>
 <h4  style="text-align: right">2022</h4>
 <p>The website is a prototype for Hemingways Hotel, an e-commerce platform supporting timely, reliable, booking, updates, luxurious offers and services for all our esteemed clienteles.</p>
-## My contributions
+<h3> My contributions </h3>
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
