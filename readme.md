@@ -57,7 +57,9 @@
 <p>- ⚡ I love MOBA games.</p>
 
 <h2> 💼 Skills and Tools</h2>
+
 <p>
+<!--   these are the icons -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 <a href="https://www.w3/org.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
@@ -77,12 +79,13 @@
 
 </p>
 
-##My Work
-🔭 I am currently working on [Kujali](https://github.com/pronepoet/kujali)
-🔭 I am currently working on [Elewa](https://github.com/pronepoet/elewa-group)
-🤝 About to score this [bounty](#)
+## 📝My Work
+<p><🔭 I am currently working on [Kujali](https://github.com/pronepoet/kujali)</p>
+<p>🔭 I am currently working on [Elewa](https://github.com/pronepoet/elewa-group)<p/>
+<p>🤝 About to score this [bounty](#)</p>
 
-##Interested?
+
+## Interested?
 📬 Reach me at [ochiengphillip84@gmail.com](ochiengphillip84@gmail.com)
 
 
@@ -97,17 +100,31 @@
 <h2>📌 My Experience</h2>
 
 <!-- hapa ni place ya readme cards -->
-
+<h3>toyourdoor</h3>
+<h4  style="text-align: right">2022</h4>
+<p>This is an e-commerce platform for restaurants to sell their food online. Customers can order food from a wide variety of meals and have them deliveed to their door step.</p>
 <a href="https://github.com/chelahcynthia/to-your-door">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chelahcynthia&repo=to-your-door&theme=moltack" />
 </a>
-<a href="https://github.com/chelahcynthia/to-your-door-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chelacynthia&repo=to-your-door-backend&theme=moltack" />
+
+<h3>Contact keeper</h3>
+<h4  style="text-align: right">2022</h4>
+<p>The majority of cell phone users worldwide experience the issue of losing their contact lists due to either phone loss or phone damage, which is why Keeper is being created. Keeper is a free personal information manager that allows you to save all of your friends', families', and colleges' contact information in a single database file. With the built-in ability to login, update and delete, you'll never forget or loose your friends or professional contact number! since you can now access them from any device with an internet connection.</p>
+<a href="https://github.com/DenisOuma/IP-project-keeper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DenisOuma&repo=IP-project-keeper&theme=moltack" />
 </a>
 
+
+<h3>Hemingways</h3>
+<h4  style="text-align: right">2022</h4>
+<p>The website is a prototype for Hemingways Hotel, an e-commerce platform supporting timely, reliable, booking, updates, luxurious offers and services for all our esteemed clienteles.</p>
 <a href="https://github.com/rickymurithi/hemingways-f">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rickymurithi&repo=hemingways-f&theme=moltack" />
 </a>
+
+<h3>Photo Gallery</h3>
+<h4  style="text-align: right">2022</h4>
+<p></p>
 <a href="https://github.com/pronepoet/photo-gallery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
 </a>
