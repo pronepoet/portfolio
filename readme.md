@@ -70,12 +70,21 @@
 <a href="https://figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"></a>
 <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://img.icons8.com/color/1x/ruby-programming-language.png"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/officel/1x/react.png"></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/office/1x/react.png"></a>
 <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/1x/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"></a>
  <a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/1x/angularjs.png"></a>
  
 
 </p>
+
+##My Work
+🔭 I am currently working on [Kujali](https://github.com/pronepoet/kujali)
+🔭 I am currently working on [Elewa](https://github.com/pronepoet/elewa-group)
+🤝 About to score this [bounty](#)
+
+##Interested?
+📬 Reach me at [ochiengphillip84@gmail.com](ochiengphillip84@gmail.com)
+
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pronepoet&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
@@ -85,17 +94,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronepoet&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2>📌 Special Repositories</h2>
+<h2>📌 My Experience</h2>
 
 <!-- hapa ni place ya readme cards -->
-<a href="https://github.com/pronepoet/Environs.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Environs&theme=moltack" />
+
+<a href="https://github.com/chelahcynthia/to-your-door">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chelahcynthia&repo=to-your-door&theme=moltack" />
 </a>
-<a href="https://github.com/pronepoet/Akan_names.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Akan_names&theme=moltack" />
+<a href="https://github.com/chelahcynthia/to-your-door-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chelacynthia&repo=to-your-door-backend&theme=moltack" />
 </a>
-<a href="https://github.com/pronepoet/Pizza-palace.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
+<a href="https://github.com/rickymurithi/hemingways-f">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rickymurithi&repo=hemingways-f&theme=moltack" />
 </a>
 <a href="https://github.com/pronepoet/photo-gallery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronepoet&repo=Pizza-palace&theme=moltack" />
