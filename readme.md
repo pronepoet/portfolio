@@ -114,7 +114,7 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 09/12/22 	| 🏇 Added the authentication feature| Completed | |
+| 09/12/22 	| 🏇 Added the authentication feature| Completed |
 
 
 
@@ -132,10 +132,11 @@
 <h3>Photo Gallery</h3>
 <h4  style="text-align: right">2022</h4>
 <p>This is a simple web page that displays random images from an api.</p>
+
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 17/09/22 	| ✨ Added the basic structure of the web page | Completed | Link|
-| 17/09/22 	| ✨ Added the functionality of the web page| Completed | Link|
+| 17/09/22 	| ✨ Added the basic structure of the web page | Completed | Link |
+| 17/09/22 	| ✨ Added the functionality of the web page| Completed | Link |
 
 
 
