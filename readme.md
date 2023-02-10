@@ -80,7 +80,7 @@
 </p>
 
 ## 📝My Work
-<p>🤝 About to score this <a href="https://github.com/pronepoet/kujali">Kujali</a> </p>
+<p>🤝 About to score this <a href="https://github.com/pronepoet/kujali">bounty</a> </p>
 <p>🔭 I am currently working on <a href="https://github.com/pronepoet/kujali">Kujali</a></p>
 
 
