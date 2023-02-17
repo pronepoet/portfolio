@@ -138,4 +138,10 @@
 | 17/09/22 	| ✨ Added the functionality of the web page| Completed | Link |
 
 
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+| 17/02/23 	| ✨ Working on Social Impact Footer section #39 | In progress | [#issue 39](https://github.com/italanta/elewa-group/issues/39) |
+
+
+
 
