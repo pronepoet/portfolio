@@ -147,5 +147,7 @@
 |----------	|-------	|--------	|------	|
 | 18/02/23 	| ✨ Working on Social Impact Footer section #39 | In progress | [#issue 39](https://github.com/italanta/elewa-group/issues/39) |
 
-
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+| 20/02/23 	| ✨ Working on Social Impact Footer section #39 | In progress | [#issue 39](https://github.com/italanta/elewa-group/issues/39) |
 
