@@ -151,3 +151,10 @@
 |----------	|-------	|--------	|------	|
 | 20/02/23 	| ✨ Working on Social Impact Footer section #39 | In progress | [#issue 39](https://github.com/italanta/elewa-group/issues/39) |
 
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+| 09/03/23 	| ✨ Working on Related Article section #445 | In progress | [#issue 445](https://github.com/italanta/elewa-group/issues/445) |
+
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+| 10/03/23 	| ✨ Create venture detail article carousel #412 | In progress | [#issue 445](https://github.com/italanta/elewa-group/issues/445) |
