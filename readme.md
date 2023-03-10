@@ -157,4 +157,4 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 10/03/23 	| ✨ Create venture detail article carousel #412 | In progress | [#issue 445](https://github.com/italanta/elewa-group/issues/445) |
+| 10/03/23 	| ✨ Create venture detail article carousel #412 | In progress | [#issue 412](https://github.com/italanta/elewa-group/issues/412) |
